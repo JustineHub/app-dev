@@ -1,13 +1,13 @@
 # app-dev
 My first repository
 
-> #My favorite Movie 
+  #My favorite Movie 
 
- * Spider Man
+  > Spider Man
   
-  *Transformer
+  > Transformer
   
-  *The Avengers 
+  > The Avengers 
  
  
  
