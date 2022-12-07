@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-  # My favorite Movies 
+  # My favorite Movies/Series 
 
   ## > Spider Man
   *With Spider-Man's identity now revealed, our friendly neighborhood web-slinger is unmasked and no longer able to separate his normal life as Peter Parker from the        high stakes of being a superhero*
@@ -18,6 +18,14 @@ My first repository
   
   ![alt text](https://images.moviesanywhere.com/4677177f6f0595289bc3e767e7b47459/1d6c6c73-ab1e-4453-969c-6a4e965ebb37.jpg)
   
+  ## > Alice in borderland 
+  *Obsessed gamer Arisu suddenly finds himself in a strange, emptied-out version of Tokyo in which he and his friends must compete in dangerous games in order to          survive.*
+  
+  ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7bNhpTIID9flag4wQK78f4TG_RGOrPrjlYGAPZeFqJhgn5g5j)
+   
+  
+  
+  
     > here's the link of the movie 
     
    [Spider-Man ] (https://www.imdb.com/title/tt10872600/mediaviewer/rm3936939521/?ref_=ext_shr_lnk)
@@ -28,6 +36,7 @@ My first repository
   
    [Trasnformer] (https://www.imdb.com/title/tt5090568/mediaviewer/rm4261755649/?ref_=tt_ov_i)
 
+   
   
  
  
