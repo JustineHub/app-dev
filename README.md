@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-  # My favorite Movie 
+  # My favorite Movies 
 
   ## > Spider Man
   *With Spider-Man's identity now revealed, our friendly neighborhood web-slinger is unmasked and no longer able to separate his normal life as Peter Parker from the        high stakes of being a superhero*
