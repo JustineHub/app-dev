@@ -6,7 +6,7 @@ My first repository
   ## > Spider Man
   *With Spider-Man's identity now revealed, our friendly neighborhood web-slinger is unmasked and no longer able to separate his normal life as Peter Parker from the        high stakes of being a superhero*
   
-  ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAdKgctTO5EuODTcdzxfh4PlDQjC0oEmy9G0h-qYMo3F4x1wVyRv9AJTA8TlG-K3rH6ZA&usqp=CAU)
+  ![alt text]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAdKgctTO5EuODTcdzxfh4PlDQjC0oEmy9G0h-qYMo3F4x1wVyRv9AJTA8TlG-K3rH6ZA&usqp=CAU](https://resizing.flixster.com/wouDuoTzmfpwzvVDiTldrBHkbTo=/206x305/v2/https://resizing.flixster.com/8PNiwC2bpe9OecfYZSOVkvYC5vk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U5NGM0Y2Q1LTAyYTItNGFjNC1hNWZhLWMzYjJjOTdjMTFhOS5qcGc=))
   
   ## > Transformer
   *During the 1990s, the Maximals, Predacons and Terrorcons join the existing battle on Earth between Autobots and Decepticons*
