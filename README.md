@@ -3,14 +3,11 @@ My first repository
 
   # My favorite Movie 
 
-  ## 
-  > Spider Man
+  ## > Spider Man
   
-  ## 
-  > Transformer
+  ## > Transformer
   
-  ## 
-  > The Avengers 
+  ## > The Avengers 
  
    [Spider-Man Pic] (https://www.imdb.com/title/tt10872600/mediaviewer/rm3936939521/?ref_=ext_shr_lnk)
   
