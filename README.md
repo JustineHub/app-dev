@@ -4,10 +4,13 @@ My first repository
   # My favorite Movie 
 
   ## > Spider Man
+  *With Spider-Man's identity now revealed, our friendly neighborhood web-slinger is unmasked and no longer able to separate his normal life as Peter Parker from the        high stakes of being a superhero*
   
   ## > Transformer
+  *During the 1990s, the Maximals, Predacons and Terrorcons join the existing battle on Earth between Autobots and Decepticons*
   
   ## > The Avengers 
+  *The Avengers are a team of superheroes appearing in American comic books published by Marvel Comics.*
  
    [Spider-Man ] (https://www.imdb.com/title/tt10872600/mediaviewer/rm3936939521/?ref_=ext_shr_lnk)
    
